@@ -8,7 +8,7 @@
 - MSSV: 2A202602715
 - Email: khanh.sylg@gmail.com
 - Link repo (fork): https://github.com/kascenite/K4-L2L3-DAY23-LuongSyKhanh-2A202602715-SensorFusion
-- Commit hash nộp (`git rev-parse HEAD`): 2ba040f764a3ea47e64ea2bb09851f6640e9663b
+- Commit hash nộp (`git rev-parse HEAD`): 8e119df97b4dc41ba6c19dad8a2e1ae0c67b17cd
 
 ## Tóm tắt kết quả
 
